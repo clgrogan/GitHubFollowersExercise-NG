@@ -1,22 +1,24 @@
-# Angular Exercise to practice Consuming HTTP Services skills
+# Angular Project that Demonstrates Consuming HTTP Services
 
 Angular App that will apply skills learned, specifically in regards to consuming HTTP Services.
 
 ## Summary
 
-- [Exercise Specifications](#exercise-specifications)
+- [Project Specifications](#exercise-specifications)
 - [Built With](#built-with)
 - [Subjects Demonstrated](#subjects-demonstrated)
 - [Deployment](#deployment)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## Exercise Specifications
+## Project Specifications
 
 Angular application that will display a list of the followers of an authenticated user.
 
 - End point: https://api.github.com/users/username/followers
-  \t\t Example: https://api.github.com/users/clgrogan/followers
+- Example: https://api.github.com/users/clgrogan/followers
+
+Each following user line item will include the user's avatar, name, and GitHub url.
 
 ## Built With
 
