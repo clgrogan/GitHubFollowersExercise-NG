@@ -19,7 +19,7 @@ Angular application that will display a list of the followers of an authenticate
 - Example: https://api.github.com/users/clgrogan/followers
 
 Each following user line item will include the user's avatar, name, and GitHub url.
-![Image of WireFrame](resourses/GitHubFollowersWF.png)
+![Image of WireFrame](resources/GitHubFollowersWF.png)
 
 ## Built With
 
