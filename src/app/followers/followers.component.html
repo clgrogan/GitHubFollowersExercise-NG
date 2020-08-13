@@ -1,0 +1,14 @@
+<h1 [textContent]="title"></h1>
+<ul>
+  <li class="flex-li" *ngFor="let follower of followers">
+    <img class="avatar-sm" [src]="follower.avatar_url" />
+    <div class="flex-column-container">
+      <p class="p-large" [textContent]="follower.login"></p>
+      <a
+        class="url-large"
+        [href]="follower.html_url"
+        [textContent]="follower.html_url"
+      ></a>
+    </div>
+  </li>
+</ul>

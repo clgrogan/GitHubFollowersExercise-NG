@@ -24,9 +24,9 @@ Each following user line item will include the user's avatar, name, and GitHub u
 
 ## Built With
 
-- [Angular](https://angular.io/) - Framework
+- [Angular](https://angular.io/) - Typescript-based Framework
 - [Angular CLI](https://cli.angular.io/) - Command Line Interface.
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/) - CSS-based Framework
 
 ## Subjects Demonstrated
 
@@ -45,16 +45,13 @@ May include any or all of the following subjects related to Consuming HTTP Servi
 - Handling Expected Errors
 - Throwing Application-specific Errors
 - Handling Bad Request Errors
-- Importing Observable Operators and
-  Factory Methods
+- Importing Observable Operators and Factory Methods
 - Global Error Handling
-- Extracting a Reusable Error Handling
-  Method
-  4min
+- Extracting a Reusable Error Handling Method
 - Extracting a Reusable Data Service
 - The Observable Class Map Operator
 - Optimistic vs Pessimistic Updates
-  -Observables vs Promises
+- Observables vs Promises
 
 ## Deployment
 
@@ -63,9 +60,11 @@ May include any or all of the following subjects related to Consuming HTTP Servi
 
 ## Authors
 
-- **Curt Grogan** - _Full Stack Web Developer_ -
-  [Curt Grogan](https://github.com/clgrogan)
+**[Curt Grogan](https://github.com/clgrogan)** - Full Stack Web Developer
+
+- GitHub: [github.com/clgrogan](https://github.com/clgrogan)
+- LinkedIn: [www.linkedin.com/in/curtgrogan/](https://www.linkedin.com/in/curtgrogan/)
 
 ## Acknowledgments
 
-- **Udemy - Angular Crash Course for Busy Developers** - _Provided the bulk of the knowhow on how to work with Angular_ [Udemy](https://www.udemy.com/)
+**[Udemy - Angular Crash Course](https://www.udemy.com/course/angular-crash-course/)** by _Mosh Hamedani_ - Via this course, they provided the instruction that helped develop the knowhow on working with Angular
