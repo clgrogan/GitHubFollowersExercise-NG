@@ -55,8 +55,9 @@ May include any or all of the following subjects related to Consuming HTTP Servi
 
 ## Deployment
 
+- Web Site **[github-followers-angular-project.netlify.app](https://github-followers-angular-project.netlify.app/)**
+- Code **[https://github.com/clgrogan/GitHubFollowersExercise-NG](https://github.com/clgrogan/GitHubFollowersExercise-NG)**
 - Hosted on [Netlify](https://app.netlify.com/) utilizing [GitHub](https://app.netlify.com/)'s Netlify App
-- URL [https://angular-reactive-form-exercise.netlify.app/](https://angular-reactive-form-exercise.netlify.app/)
 
 ## Authors
 
